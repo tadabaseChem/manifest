@@ -5,7 +5,7 @@
     "background_color": "#212C3B",
     "display": "minimal-ui",
     "Scope": "/",
-    "start_url": "https://tutorials.tadabase.io/pwa/login",
+    "start_url": "https://tutorials.tadabase.co/pwa/login",
     "icons" : [
         {
           "src": "https://raw.githubusercontent.com/tadabaseChem/manifest/main/icons/manifest-icon-192.maskable.png",
