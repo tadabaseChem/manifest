@@ -3,6 +3,8 @@
     "short_name": "App",
     "theme_color": "#FF6600",
     "background_color": "#212C3B",
+    "display": "minimal-ui",
+    "Scope": "/",
     "start_url": "https://tutorials.tadabase.io/pwa/login",
     "icons" : [
         {
