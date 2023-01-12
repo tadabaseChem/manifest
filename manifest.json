@@ -3,7 +3,7 @@
     "short_name": "Tadabase PWA",
     "theme_color": "#FF6600",
     "background_color": "#212C3B",
-    "display": "minimal-ui",
+    "display": "fullscreen",
     "orientation": "portrait",
     "Scope": "/",
     "start_url": "https://tutorials.tadabase.co/pwa/login",
