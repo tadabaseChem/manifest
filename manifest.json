@@ -6,7 +6,7 @@
     "display": "minimal-ui",
     "orientation": "portrait",
     "Scope": "/",
-    "start_url": "/",
+    "start_url": "https://tutorials.tadabase.co/pwa/login",
     "icons" : [
         {
           "src": "https://raw.githubusercontent.com/tadabaseChem/manifest/main/icons/manifest-icon-192.maskable.png",
